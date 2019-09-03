@@ -1,0 +1,6 @@
+take int from user (any unmber) as many as user wish to enter,find out freq of every number in numbers -->hashMap because it does not sort .
+2. you will get String from 
+
+
+3. create two classes of thread .one class generated number from 10 to 20 ,other will generate 21 to 30. put those number into an arrayList . both thread must use
+ArrayList.
